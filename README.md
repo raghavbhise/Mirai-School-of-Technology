@@ -1,1 +1,1 @@
-# Mirai-School-of-Technology-
+# Assignments given by Mirai School of Technology
