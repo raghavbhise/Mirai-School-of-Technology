@@ -1,0 +1,3 @@
+1. I am an AI and Machine Learning student. Which skill should I focus on the most?
+2. Why is that skill important for my career?
+3. Based on what we discussed, give me a simple 3-month learning plan for that skill.
